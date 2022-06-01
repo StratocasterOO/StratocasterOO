@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Omar 👋</h1>
 
+This is a profile `README.md` created for a masterclass. You can find all masterclasses notes [here](https://github.com/StratocasterO/masterclasses-it-academy).
+
 - 🌱 I’m currently teaching backend development with Node.js
 - 💬 Ask me about web dev, backend and Android development
 - 📫 Reach me at my [email](mailto:omarolmedoferrer@hotmail.com)
