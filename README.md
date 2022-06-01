@@ -1,4 +1,4 @@
-### Hi there, I'm Omar 👋
+<h1 style="text-align: center">Hi there, I'm Omar 👋</h1>
 
 - 🌱 I’m currently teaching backend development with Node.js
 - 💬 Ask me about web dev, backend and Android development
