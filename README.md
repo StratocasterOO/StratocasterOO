@@ -3,9 +3,10 @@
 This is a profile `README.md` created for a masterclass. You can find all masterclasses notes [here](https://github.com/StratocasterO/masterclasses-it-academy).
 
 - 🌱 I’m currently teaching backend development with Node.js
+- 🔭 I’m currently working on my [Github Pages](http://stratocasteroo.github.io)
 - 💬 Ask me about web dev, backend and Android development
 - 📫 Reach me at my [email](mailto:omarolmedoferrer@hotmail.com)
-- 😄 Pronouns: he/him/they
+- 😄 Pronouns: he/she/they
 - ⚡ Fun fact: I'm always sleepy
 
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
@@ -19,7 +20,6 @@ This is a profile `README.md` created for a masterclass. You can find all master
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
